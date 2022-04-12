@@ -13,7 +13,7 @@ int main()
 	b=a/100;
 	
 	
-	cout<<b<<" Ìåòğ";
+	cout<<b<<" ÃŒÃ¥Ã²Ã°";
 	
 	
 	return 0;
