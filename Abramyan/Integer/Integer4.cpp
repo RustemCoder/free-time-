@@ -13,7 +13,7 @@ int main()
 	cin>>b;
 	
 	c=a/b;
-	cout<<c<< "  Îòğåçêîâ";
+	cout<<c<< "  ÃÃ²Ã°Ã¥Ã§ÃªÃ®Ã¢";
 	
 	
 	return 0;
