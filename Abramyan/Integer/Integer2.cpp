@@ -13,7 +13,7 @@ int main()
 	b=a/1000;
 	
 	
-	cout<<b<<" Òîííà";
+	cout<<b<<" Ã’Ã®Ã­Ã­Ã ";
 	
 	
 	return 0;
